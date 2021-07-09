@@ -8,6 +8,7 @@
 
 #container {
     margin: auto;
+    margin-top: 40px;
     max-width: 300px;
     text-align: center;
     padding: 20px;
@@ -38,4 +39,9 @@ button {
 
 h1 {
     margin-bottom: 20px;
+}
+
+p {
+    text-align: left;
+    margin-top: 8px;
 }
