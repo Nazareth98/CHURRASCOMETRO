@@ -1,2 +1,2 @@
 # ProgramadorBrChurrascometro
- Exercício do Curso Programdor BR
+ Exercício do Curso Programador BR
